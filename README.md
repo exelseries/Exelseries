@@ -34,10 +34,6 @@ I am a software engineer and digital architect focused on building high-performa
 
 ---
 
-## 📊 My Activity
-![Exelseries's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exelseries&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exelseries&layout=compact&theme=dark)
-
 ## 📬 Let's Connect
 - **Work:** [Jexel Tech](https://jexeltech.com)
 - **LinkedIn:** [Faithful Anichukwu](https://linkedin.com/in/exelseries)
